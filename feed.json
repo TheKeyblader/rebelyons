@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RebelLyons",
+    "description": "",
+    "home_page_url": "https://thekeyblader.github.io/rebelyons",
+    "feed_url": "https://thekeyblader.github.io/rebelyons/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jean-Francois Pustay"
+    },
+    "items": [
+        {
+            "id": "https://thekeyblader.github.io/rebelyons/hello-world/",
+            "url": "https://thekeyblader.github.io/rebelyons/hello-world/",
+            "title": "Hello World",
+            "author": {
+                "name": "Jean-Francois Pustay"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-04T13:59:53+01:00",
+            "date_modified": "2024-01-04T14:00:37+01:00"
+        }
+    ]
+}
